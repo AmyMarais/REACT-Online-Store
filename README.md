@@ -1,5 +1,5 @@
 # REACT-Online-Store
-An improvement upon my HTML Online Store 
+I've been wanting to re-create the [HTML online store] ( https://github.com/AmyMarais/HTML-Online-Store)  I created for my bootcamp for a while now. I am still working on the cart functionality but wanted to upload this in the meantime. Below you'll find screenshots comparing my old store to the new one I'm creating. You'll also find links to two videos where I run through the current code I have for my new online store and compare the two projects side-by-side. Enjoy :) 
 
 ## Screenshots
 ### Old Store
@@ -25,6 +25,6 @@ An improvement upon my HTML Online Store
 ![Screenshot (279)](https://user-images.githubusercontent.com/81366533/144877864-b6572e3f-21c4-460c-93d7-8a0b432138f9.png)
 
 
-# Explanation of Code
+## Explanation of New Store VS Old Store
 
-# Explanation of New Store VS Old Store
+## Explanation of Current Code
