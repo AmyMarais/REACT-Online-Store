@@ -4,7 +4,7 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="##screenshots">Screenshots</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#Explanation of New Store VS Old Store">Explanation of New Store VS Old Store</a></li>
     <li><a href="#Explanation of Current Code">Explanation of Current Code </a></li>
   </ol>
