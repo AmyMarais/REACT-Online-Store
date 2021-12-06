@@ -5,7 +5,7 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#explanationofNew Store VS Old Store">Explanation of New Store VS Old Store</a></li>
+    <li><a href="#comparison">Comparison (of new and old store)</a></li>
     <li><a href="#code">Code </a></li>
   </ol>
 </details>
@@ -34,7 +34,7 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 ![Screenshot (279)](https://user-images.githubusercontent.com/81366533/144877864-b6572e3f-21c4-460c-93d7-8a0b432138f9.png)
 
 
-## Explanation of New Store VS Old Store
+## Comparison
 https://youtu.be/52GJvXG0FEs
 
 ## Code
