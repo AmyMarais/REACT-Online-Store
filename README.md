@@ -4,7 +4,7 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 ## Screenshots
 ### Old Store
 
-> Home page
+! Home page
 ![Screenshot (277)](https://user-images.githubusercontent.com/81366533/144877759-cef6227c-c9e8-4871-aee8-2e7774263cde.png)
 
 > Lookbook page
