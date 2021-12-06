@@ -26,6 +26,7 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 
 
 ## Explanation of New Store VS Old Store
+https://youtu.be/52GJvXG0FEs
 
 ## Explanation of Current Code
 https://youtu.be/2L7Z5Mu6G2s
