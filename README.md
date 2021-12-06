@@ -5,8 +5,8 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#Explanation of New Store VS Old Store">Explanation of New Store VS Old Store</a></li>
-    <li><a href="#Explanation of Current Code">Explanation of Current Code </a></li>
+    <li><a href="#explanationofNew Store VS Old Store">Explanation of New Store VS Old Store</a></li>
+    <li><a href="#currentcode">Explanation of Current Code </a></li>
   </ol>
 </details>
 
@@ -37,5 +37,5 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 ## Explanation of New Store VS Old Store
 https://youtu.be/52GJvXG0FEs
 
-## Explanation of Current Code
+## Current Code
 https://youtu.be/2L7Z5Mu6G2s
