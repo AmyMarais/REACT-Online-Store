@@ -34,8 +34,8 @@ I've been wanting to re-create the [HTML online store](https://github.com/AmyMar
 ![Screenshot (279)](https://user-images.githubusercontent.com/81366533/144877864-b6572e3f-21c4-460c-93d7-8a0b432138f9.png)
 
 
-## Comparison
+## Comparison Video between both projects
 https://youtu.be/52GJvXG0FEs
 
-## Code
+## Code Video on both projects
 https://youtu.be/2L7Z5Mu6G2s
